@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\C-Sharp\Alphabetes\bin\Debug\net6.0\Alphabetes.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\C-Sharp\Alphabetes\bin\Debug\net6.0\Alphabetes.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\C-Sharp\Alphabetes\bin\Debug\net6.0\Alphabetes.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\C-Sharp\Alphabetes\bin\Debug\net6.0\Alphabetes.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\C-Sharp\Alphabetes\bin\Debug\net6.0\Alphabetes.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\C-Sharp\Alphabetes\obj\Debug\net6.0\Alphabetes.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\C-Sharp\Alphabetes\obj\Debug\net6.0\Alphabetes.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\C-Sharp\Alphabetes\obj\Debug\net6.0\Alphabetes.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\C-Sharp\Alphabetes\obj\Debug\net6.0\Alphabetes.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\C-Sharp\Alphabetes\obj\Debug\net6.0\Alphabetes.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\C-Sharp\Alphabetes\obj\Debug\net6.0\Alphabetes.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\C-Sharp\Alphabetes\obj\Debug\net6.0\refint\Alphabetes.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\C-Sharp\Alphabetes\obj\Debug\net6.0\Alphabetes.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\C-Sharp\Alphabetes\obj\Debug\net6.0\Alphabetes.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\C-Sharp\Alphabetes\obj\Debug\net6.0\ref\Alphabetes.dll
